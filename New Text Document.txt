@@ -1,0 +1,36 @@
+MinIO
+
+Introduction:
+Minio is an open source distributed object storage server written in GO. It offers high performance s3 compatible storage. Includes mostly unsorted data such as photos, videos or log files. Minio comes under the affero general public lisence version 3.
+
+SUMMARY:
+
+Website link	: www.mini.io
+open/proprietary	: Open source
+Lisence	                 :   Affero general public lisence version3
+Organization name	:MinIO
+Brief description	:Minio is completly open source and acts as an object storage server for mainly                                     photos, videos or log files.
+
+KEY FEATURE:
+
+-Bitrot protection
+-Data Encryption
+-Scalability
+-Open Source
+
+USAGE:
+Minio is been used by companies that require high speed connectivity and data retrieval as needed. Few of the companies that use Minio are:
+
+-Travel Wallet
+-Sound Clound
+-Kaazu
+
+TECHNICAL DETAILS:
+Scalability: Minio is ideal for companies that require large amount of space and fast connectivity.
+
+Open Source: Minio is completly open source that comes under the lisence general public lisence v3. The users can modify or distribute the software as they require.
+
+Data security: The data contained is end to end encrypted , so the users can safely proceed with their choice.
+
+CONCLUSION:
+Overall, Minio is secure and provide data integrity to its users and the unsorted data is easily contained in the servers ( images, videos, log files).
